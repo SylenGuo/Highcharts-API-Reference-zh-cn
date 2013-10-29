@@ -1,5 +1,5 @@
 ## Highcharts.setOptions
-   ###global
+   **global**
 
 	global选项和lang选项一样并不一定适合每一张图表, 必须使用 Highcharts.setOptions 函数才能使其生效。
 	例如：
@@ -30,4 +30,4 @@
 		*[默认值为true](<http://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/global/useutc-true/>) - 起始点为 00:00 UTC，在坐标轴(axis)和消息提示(tooltip)时将会显示 00：00
 		*当为false时  - 起始点为 00:00 UTC，在坐标轴(axis)和消息提示(tooltip)时将会显示浏览者本地机器时间
 
-   ###lang
+   **lang**
