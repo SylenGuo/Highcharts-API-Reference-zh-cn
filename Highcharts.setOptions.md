@@ -18,7 +18,8 @@
 
 	**canvasToolsURL**: String
 
-	此选项延迟加载文件用于支持Android 2.x设备，由于次此设备并不支持SVG，所以进行额外包含[canvg](<http://code.google.com/p/canvg/>)。此功能依赖rbcolor和Highcharts CanVG渲染器。
+	此选项延迟加载文件用于支持Android 2.x设备，由于此设备并不支持SVG，所以进行额外包含[canvg](<http://code.google.com/p/canvg/>)。此功能依赖rbcolor和Highcharts CanVG渲染器。
+	
 	为了第三方安全问题，请使用Hightcharts官网的canvas-tools.js文件.
 	地址为：http://code.highcharts.com/{version}/modules/canvas-tools.js
 
@@ -29,7 +30,7 @@
 	
 	试一试: 
 		* [默认值为true](<http://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/global/useutc-true/>) - 起始点为 00:00 UTC，在坐标轴(axis)和消息提示(tooltip)时将会显示 00：00
-		
+
 		* 当为false时  - 起始点为 00:00 UTC，在坐标轴(axis)和消息提示(tooltip)时将会显示浏览者本地机器时间
 
    * lang
