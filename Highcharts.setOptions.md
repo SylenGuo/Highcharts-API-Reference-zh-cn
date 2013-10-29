@@ -28,8 +28,8 @@
 	是否使用UTC标准时间，例如在坐标轴上，刻度线分布以及 Highcharts.dateFormat 函数格式化。使用UTC的好处是不管浏览用户在什么时区，都会看到相同的结果。
 	当操作实时数据或者当前为夏令时，时间将被转换。 **默认值：true**
 	
-	试一试: 
-		1.[默认值为true](<http://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/global/useutc-true/>) - 起始点为 00:00 UTC，在坐标轴(axis)和消息提示(tooltip)时将会显示 00：00<br />
-		2.当为false时  - 起始点为 00:00 UTC，在坐标轴(axis)和消息提示(tooltip)时将会显示浏览者本地机器时间
+	试一试:<br /> 
+		* [默认值为true](<http://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/global/useutc-true/>) - 起始点为 00:00 UTC，在坐标轴(axis)和消息提示(tooltip)时将会显示 00：00<br />
+		* 当为false时  - 起始点为 00:00 UTC，在坐标轴(axis)和消息提示(tooltip)时将会显示浏览者本地机器时间
 
    * lang
