@@ -35,3 +35,6 @@ Highcharts.setOptions
 ## lang
 
     翻译中...
+
+翻译过程中小伙伴[@Alex](https://github.com/Alex987965) 发现已经有同学翻译过了，贴上链接不再做无用功<br />
+http://higrid.net/docs/highcharts_cn/#chart
